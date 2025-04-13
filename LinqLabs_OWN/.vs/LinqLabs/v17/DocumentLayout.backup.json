@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LINQ\\LinqLabs_OWN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\5. frmlinq_to_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\5. frmlinq_to_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\5. frmlinq_to_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\5. frmlinq_to_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\nwmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\nwmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\4. frmlinq_to_xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\4. frmlinq_to_xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\4. frmlinq_to_xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\4. frmlinq_to_xxx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\3. frmlinq\u67B6\u69CB\u4ECB\u7D39_insidelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\3. frmlinq\u67B6\u69CB\u4ECB\u7D39_insidelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\\u4F5C\u696D\\frm\u4F5C\u696D_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\\u4F5C\u696D\\frm\u4F5C\u696D_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\\u4F5C\u696D\\frm\u4F5C\u696D_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\\u4F5C\u696D\\frm\u4F5C\u696D_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\3. frmlinq\u67B6\u69CB\u4ECB\u7D39_insidelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\3. frmlinq\u67B6\u69CB\u4ECB\u7D39_insidelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|c:\\linq\\linqlabs_own\\linqlabs\\2. frmlangforlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03C24A6A-32D9-41E1-B469-80BDFD85D5D5}|LinqLabs\\LinqLabs.csproj|solutionrelative:linqlabs\\2. frmlangforlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4. FrmLINQ_To_XXX.cs",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\4. FrmLINQ_To_XXX.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\4. FrmLINQ_To_XXX.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\4. FrmLINQ_To_XXX.cs",
+              "RelativeToolTip": "LinqLabs\\4. FrmLINQ_To_XXX.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:40:54.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nwModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\nwModel.edmx",
+              "RelativeDocumentMoniker": "LinqLabs\\nwModel.edmx",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\nwModel.edmx [Diagram1]",
+              "RelativeToolTip": "LinqLabs\\nwModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-11T05:54:20.298Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5. FrmLinq_To_Entity.cs",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\5. FrmLinq_To_Entity.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\5. FrmLinq_To_Entity.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\5. FrmLinq_To_Entity.cs",
+              "RelativeToolTip": "LinqLabs\\5. FrmLinq_To_Entity.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAcwPYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:41:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5. FrmLinq_To_Entity.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\5. FrmLinq_To_Entity.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\5. FrmLinq_To_Entity.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\5. FrmLinq_To_Entity.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LinqLabs\\5. FrmLinq_To_Entity.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:41:03.922Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm\u4F5C\u696D_2.cs",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs",
+              "RelativeToolTip": "LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:15:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm\u4F5C\u696D_2.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LinqLabs\\\u4F5C\u696D\\Frm\u4F5C\u696D_2.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:15:55.804Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4. FrmLINQ_To_XXX.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\4. FrmLINQ_To_XXX.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\4. FrmLINQ_To_XXX.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\4. FrmLINQ_To_XXX.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LinqLabs\\4. FrmLINQ_To_XXX.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:00:35.632Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "RelativeToolTip": "LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:00:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LinqLabs\\3. FrmLINQ\u67B6\u69CB\u4ECB\u7D39_InsideLINQ.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:00:23.891Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2. FrmLangForLINQ.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\2. FrmLangForLINQ.cs",
+              "RelativeDocumentMoniker": "LinqLabs\\2. FrmLangForLINQ.cs",
+              "ToolTip": "C:\\LINQ\\LinqLabs_OWN\\LinqLabs\\2. FrmLangForLINQ.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "LinqLabs\\2. FrmLangForLINQ.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:00:20.844Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
